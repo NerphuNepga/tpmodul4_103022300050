@@ -1,0 +1,15 @@
+C:\benkyou, study me\C#\Konstruksi Perangkat Lunak\tpmodul4_103022300050\tpmodul4_103022300050\bin\Debug\net8.0\tpmodul4_103022300050.exe
+C:\benkyou, study me\C#\Konstruksi Perangkat Lunak\tpmodul4_103022300050\tpmodul4_103022300050\bin\Debug\net8.0\tpmodul4_103022300050.deps.json
+C:\benkyou, study me\C#\Konstruksi Perangkat Lunak\tpmodul4_103022300050\tpmodul4_103022300050\bin\Debug\net8.0\tpmodul4_103022300050.runtimeconfig.json
+C:\benkyou, study me\C#\Konstruksi Perangkat Lunak\tpmodul4_103022300050\tpmodul4_103022300050\bin\Debug\net8.0\tpmodul4_103022300050.dll
+C:\benkyou, study me\C#\Konstruksi Perangkat Lunak\tpmodul4_103022300050\tpmodul4_103022300050\bin\Debug\net8.0\tpmodul4_103022300050.pdb
+C:\benkyou, study me\C#\Konstruksi Perangkat Lunak\tpmodul4_103022300050\tpmodul4_103022300050\obj\Debug\net8.0\tpmodul4_103022300050.GeneratedMSBuildEditorConfig.editorconfig
+C:\benkyou, study me\C#\Konstruksi Perangkat Lunak\tpmodul4_103022300050\tpmodul4_103022300050\obj\Debug\net8.0\tpmodul4_103022300050.AssemblyInfoInputs.cache
+C:\benkyou, study me\C#\Konstruksi Perangkat Lunak\tpmodul4_103022300050\tpmodul4_103022300050\obj\Debug\net8.0\tpmodul4_103022300050.AssemblyInfo.cs
+C:\benkyou, study me\C#\Konstruksi Perangkat Lunak\tpmodul4_103022300050\tpmodul4_103022300050\obj\Debug\net8.0\tpmodul4_103022300050.csproj.CoreCompileInputs.cache
+C:\benkyou, study me\C#\Konstruksi Perangkat Lunak\tpmodul4_103022300050\tpmodul4_103022300050\obj\Debug\net8.0\tpmodul4_103022300050.sourcelink.json
+C:\benkyou, study me\C#\Konstruksi Perangkat Lunak\tpmodul4_103022300050\tpmodul4_103022300050\obj\Debug\net8.0\tpmodul4_103022300050.dll
+C:\benkyou, study me\C#\Konstruksi Perangkat Lunak\tpmodul4_103022300050\tpmodul4_103022300050\obj\Debug\net8.0\refint\tpmodul4_103022300050.dll
+C:\benkyou, study me\C#\Konstruksi Perangkat Lunak\tpmodul4_103022300050\tpmodul4_103022300050\obj\Debug\net8.0\tpmodul4_103022300050.pdb
+C:\benkyou, study me\C#\Konstruksi Perangkat Lunak\tpmodul4_103022300050\tpmodul4_103022300050\obj\Debug\net8.0\tpmodul4_103022300050.genruntimeconfig.cache
+C:\benkyou, study me\C#\Konstruksi Perangkat Lunak\tpmodul4_103022300050\tpmodul4_103022300050\obj\Debug\net8.0\ref\tpmodul4_103022300050.dll
